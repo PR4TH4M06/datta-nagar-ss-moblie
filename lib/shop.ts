@@ -12,7 +12,7 @@ export const shop = {
   phoneTel: "+918956445925",
   whatsapp: "918956445925",
   whatsappDisplay: "+91 89564 45925",
-  instagram: "https://www.instagram.com/ss_mobile_ashoknagar?srtk=MWMzdXQ2ZDZ6MGt4dg==",
+  instagram: "https://www.instagram.com/ssmobileambad?xtok=M2V1bmkxZDZ3a3Rj",
   ownerInstagram: "https://www.instagram.com/anil_kajalkar?dlrf=ZmY2b3p6dXowcGVw",
   ownerInstagramLabel: "Anil Kajalkar",
   secondOwnerInstagram: "https://www.instagram.com/sunil_kajalkar_01?srtk=aXc2MGxsNmF6bDVn",
